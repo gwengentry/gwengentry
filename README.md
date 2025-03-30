@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everyone! ✨
+
+I'm working on my senior capstone with Augusta University. I'm hoping to work on something a bit more fun soon (*possibly contributing to one of the many games hosted here on GitHub!)*. Between coding, you can find me working on a myriad of crafts and projects, or just chilling with a good music playlist. **Happy coding!**
 
 <!--
 **gwengentry/gwengentry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
